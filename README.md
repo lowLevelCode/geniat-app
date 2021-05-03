@@ -22,26 +22,29 @@
 Esta es una app normal flutter. Mira la documentacion oficial para [instalar Flutter](https://flutter.io/docs/get-started/install).
 
 * Clonar repositorio
-<code>        
+````    
     git clone https://github.com/lowLevelCode/geniat-app.git
-</code>
+````
+
 * Instala dependencias 
-<code>   
+````        
     flutter packages get
-</code>
+````
+
 * Corre la aplicacion - si tienes conectado un dispositivo
-<code>   
+````            
     flutter run
-</code>
+````
+
 * Corre la aplicacion en un dispositivo en especifico
-<code>   
+````            
     flutter run -d  (deviceId)
-</code>
+````
 
 * Generar la APK
-<code>   
+````            
     flutter build apk o flutter build apk --release
-</code>
+````
 ## Que se incluye
 
 * LOGIN
